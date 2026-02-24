@@ -1,5 +1,6 @@
 # Lab 8 - Kaitlyn Staut
 # Version 2
+# (Third comment line)
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
